@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">Guess Game</string>
     <string name="disclaimer_title">Enjoy the game</string>
+    <string name="disclaimer_message">You must be 18 or older to continue.</string>
     <string name="disclaimer_accept">Continue</string>
     <string name="disclaimer_exit">Exit</string>
 </resources>
